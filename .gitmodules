@@ -1,0 +1,6 @@
+[submodule "resources/iview-admin"]
+	path = resources/iview-admin
+	url = https://github.com/iview/iview-admin.git
+[submodule "resources/vue-element-admin"]
+	path = resources/vue-element-admin
+	url = https://github.com/PanJiaChen/vue-element-admin.git
